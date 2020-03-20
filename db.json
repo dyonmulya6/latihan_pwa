@@ -1,0 +1,23 @@
+{
+"products":[{"id":1,"name":"Butterfly, tropical buckeye","category":"Yellow"},
+{"id":2,"name":"Phascogale, red-tailed","category":"Turquoise"},
+{"id":3,"name":"Flying fox (unidentified)","category":"Violet"},
+{"id":4,"name":"Gull, kelp","category":"Indigo"},
+{"id":5,"name":"Eastern boa constrictor","category":"Aquamarine"},
+{"id":6,"name":"Magpie, australian","category":"Mauv"},
+{"id":7,"name":"Parrot, hawk-headed","category":"Purple"},
+{"id":8,"name":"Black spider monkey","category":"Yellow"},
+{"id":9,"name":"Kangaroo, jungle","category":"Turquoise"},
+{"id":10,"name":"Springbok","category":"Violet"},
+{"id":11,"name":"Asian openbill","category":"Violet"},
+{"id":12,"name":"Duiker, common","category":"Pink"},
+{"id":13,"name":"European stork","category":"Pink"},
+{"id":14,"name":"Coyote","category":"Orange"},
+{"id":15,"name":"Gecko, barking","category":"Teal"},
+{"id":16,"name":"Sandgrouse, yellow-throated","category":"Puce"},
+{"id":17,"name":"Southern tamandua","category":"Mauv"},
+{"id":18,"name":"Water monitor","category":"Purple"},
+{"id":19,"name":"Wallaby, red-necked","category":"Red"},
+{"id":20,"name":"Tern, arctic","category":"Turquoise"}
+]
+}
